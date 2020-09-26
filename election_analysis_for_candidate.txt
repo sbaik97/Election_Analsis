@@ -1,0 +1,30 @@
+
+Task#1 Result
+------------------------------------
+Total number of votes cast is 369711
+------------------------------------
+
+Task#2 Result
+------------------------------------
+The list of candidates who received votes is 
+['Charles Casper Stockham', 'Diana DeGette', 'Raymon Anthony Doane']
+------------------------------------
+
+Task#3 Result
+------------------------------------
+The total number of votes each candidate received is 
+{'Charles Casper Stockham': 85213, 'Diana DeGette': 272892, 'Raymon Anthony Doane': 11606}
+------------------------------------
+
+Task#4 Result
+------------------------------------
+The percentage of votes each candidate won is 
+{'Charles Casper Stockham': '23%', 'Diana DeGette': '74%', 'Raymon Anthony Doane': '3%'}
+
+Task#5 Result
+------------------------------------
+winning_candidate_summary
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
