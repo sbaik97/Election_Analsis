@@ -38,12 +38,12 @@ The analysis of the candidate vote show that:
    + 3.1% of the vote for Raymon Anthony.
 5. The winner of the election was: Diana DeGette received 73.8% of the vote and (272,892) number of votes.
 
-The resuls fo python script for election analysis are following,
+The results of python script for election analysis are following,
   
 ![](/Image_of_Candidate_analysis.PNG)
 
 
-The analysis of the thevoter turnout for each county shows that:
+The analysis of the the voter turnout for each county shows that:
 
 1. There were 369,711 votes cast in the election.
 2. The county involed for elction were: Jefferson, Denver, and Arapahoe in Colorado.
@@ -57,7 +57,7 @@ The analysis of the thevoter turnout for each county shows that:
    + 6.7% % for the Arapahoe county.
 5. The largest county turnout was: Denver has turnout of 82.8% with (306,055) number of votes.
 
-The resuls fo python script for the county are following,
+The resuls of python script for the voter turnout for each county are following,
   
 ![](/Image_of_County and Candidate Analysis.PNG)
 
