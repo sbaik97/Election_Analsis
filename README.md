@@ -43,7 +43,7 @@ The results of python script for election analysis are following,
 ![](/Image_of_Candidate_analysis.PNG)
 
 
-The analysis of the the voter turnout for each county shows that:
+The analysis of the the voter turnout for each county and candidate vote shows that:
 
 1. There were 369,711 votes cast in the election.
 2. The county involed for elction were: Jefferson, Denver, and Arapahoe in Colorado.
@@ -62,13 +62,10 @@ The resuls of python script for the voter turnout for each county are following,
 ![](/Image_of_County_and_Candidate_Analysis.PNG)
 
 ## Conclusion
+
 In 2018, only *ENPH* and *RUN* two stocks had positive yearly Return as well as large Total Daily Volume. Both of them was outperformance than others green stocks.
 
-
-
 In 2017, all of stocks had positive Return except *TERP* (-7.2%). "DQ" made best yearly return with 199.4% but with lowest total Daily Volume (35,796,200) in 2017.
-
-
 
 
 ## Program Logical Flow
