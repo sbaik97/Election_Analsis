@@ -59,7 +59,7 @@ The analysis of the the voter turnout for each county shows that:
 
 The resuls of python script for the voter turnout for each county are following,
   
-![](/Image_of_County and Candidate Analysis.PNG)
+![](/Image_of_County_and_Candidate_Analysis.PNG)
 
 ## Conclusion
 In 2018, only *ENPH* and *RUN* two stocks had positive yearly Return as well as large Total Daily Volume. Both of them was outperformance than others green stocks.
