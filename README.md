@@ -4,7 +4,7 @@ Election Analysis by using Python programming language
 
 
 ### Project Background ###
-The purpose of this phython secript is analysising the election data with the following tasks to complete the election audit of a recent local congressional election in Colorado.
+The purpose of this phython secript is analysising the election data for the following tasks to complete the election audit of a recent local congressional election in Colorado.
 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who received votes.
