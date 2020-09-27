@@ -59,7 +59,7 @@ The analysis of the the voter turnout for each county and candidate vote shows t
 
 The resuls of python script for the voter turnout for each county are following,
  
- ![](/Image_of_County_and_Candidate_Analysis.PNG)
+
 
 
 ## Conclusion
