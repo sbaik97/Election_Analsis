@@ -65,10 +65,13 @@ The resuls of python script for the voter turnout for each county are following,
 
 ## Conclusion
 
-In 2018, only *ENPH* and *RUN* two stocks had positive yearly Return as well as large Total Daily Volume. Both of them was outperformance than others green stocks.
+From this Python practice, we've learn how to analysis the csv file using the data structures like lists, tuples, and dictionaries. We also created the decision and repetition statements using the Boolean and For loop to evaluate the vote election analysis.
 
-In 2017, all of stocks had positive Return except *TERP* (-7.2%). "DQ" made best yearly return with 199.4% but with lowest total Daily Volume (35,796,200) in 2017.
-
+Finally, we can calculate the total number of votes cast.
+Get a complete list of candidates who received votes.
+Calculate the total number of votes each candidate received.
+Calculate the percentage of votes each candidate won.
+Determine the winner of the election based on popular vote.
 
 ## Program Logical Flow
 
