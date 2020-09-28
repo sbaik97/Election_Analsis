@@ -22,7 +22,7 @@ Python 3.7.6, Visual Studio Code, 1.49.2
 
 Data Source: election_results.csv
 
-## Result ##
+## Results ##
 
 The analysis of the candidate vote show that:
 
@@ -63,7 +63,7 @@ The resuls of python script for the voter turnout for each county are following,
 
 
 
-## Conclusion
+## Conclusions
 
 From this Python practice, we've learn how to analysis the csv file using the data structures like lists, tuples, and dictionaries. We also created the decision and repetition statements using the Boolean and For loop to evaluate the vote election analysis.
 
